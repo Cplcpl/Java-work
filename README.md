@@ -1,2 +1,2 @@
 # Java-work
-stug
+Completed projects and asignments for CompuScholar
